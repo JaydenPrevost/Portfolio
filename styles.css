@@ -1,0 +1,10 @@
+.roundborder {
+    border-radius: 50%;
+}
+body {
+    background-color: rgb(44, 212, 156);
+}
+.differentcolour {
+    background-color: grey;
+}
+.images{position: absolute; right: 0px; top: 300px}
